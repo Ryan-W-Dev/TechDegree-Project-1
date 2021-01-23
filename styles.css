@@ -181,6 +181,11 @@ a.social:hover {
   margin: 200px auto;
 }
 
+.link{
+  color: black;
+  text-decoration: underline;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
