@@ -72,6 +72,7 @@ header .profile-image {
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
+  object-fit: contain;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
@@ -86,7 +87,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: #99dfff;
 }
 .card {
   margin: 30px;
@@ -99,7 +100,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #99dfff;
 }
 
 ul.skills {
@@ -168,8 +169,7 @@ a.social:hover {
 }
 
 .title{
-  padding-top: 225px;
-  font-size: 100px;
+  font-size: 50px;
 }
 
 .tag2{
@@ -178,7 +178,7 @@ a.social:hover {
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: 250px auto;
+  margin: 200px auto;
 }
 
 /* Styles for larger screens */
