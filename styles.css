@@ -187,6 +187,16 @@ a.social:hover {
   text-decoration: underline;
 }
 
+.dirtbike{
+  overflow: hidden;
+  width: 410px;
+}
+
+.school{
+  overflow: hidden;
+  width: 410px;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
