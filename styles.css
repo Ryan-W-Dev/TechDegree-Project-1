@@ -167,6 +167,20 @@ a.social:hover {
   clear: both;
 }
 
+.title{
+  padding-top: 225px;
+  font-size: 100px;
+}
+
+.tag2{
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 250px auto;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
